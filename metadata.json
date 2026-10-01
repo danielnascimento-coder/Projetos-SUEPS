@@ -1,0 +1,6 @@
+{
+  "name": "SENAI - Painel de Cursos Fora da Base Nacional",
+  "description": "Dashboard analítico e interativo de matrículas por Departamento Regional (DR) de cursos técnicos não constantes na Base Nacional do SENAI, com filtros por eixo tecnológico CNCT e macrorregiões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
